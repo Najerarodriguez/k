@@ -43,7 +43,7 @@ const TablePage = () => {
 
   return (
     <PageBase title="Table Page"
-              navigation="Application / Table Page">
+              navigation="Table Page">
 
       <div>
         <Link to="/form" >

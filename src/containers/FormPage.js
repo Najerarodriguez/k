@@ -33,7 +33,7 @@ const FormPage = () => {
 
   return (
     <PageBase title="Form Page"
-              navigation="Application / Form Page">
+              navigation="Formulario">
       <form>
 
         <TextField
@@ -46,9 +46,9 @@ const FormPage = () => {
           floatingLabelText="City"
           value=""
           fullWidth={true}>
-          <MenuItem key={0} primaryText="London"/>
-          <MenuItem key={1} primaryText="Paris"/>
-          <MenuItem key={2} primaryText="Rome"/>
+          <MenuItem key={0} primaryText="Lorem ipsum"/>
+          <MenuItem key={1} primaryText="Lorem ipsum two"/>
+          <MenuItem key={2} primaryText="Lorem ipsum three"/>
         </SelectField>
 
         <DatePicker
