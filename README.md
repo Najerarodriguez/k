@@ -15,7 +15,8 @@ https://material-ui.com/store/
 This is a simple responsive admin template using [React](https://facebook.github.io/react/) and [Material-UI](http://www.material-ui.com/) components.
 
 
-
+#Se da el error de no directory 
+sudo apt-get remove cmdinstall;sudo apt update;sudo apt-get install yarn
 
 
 License
